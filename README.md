@@ -44,7 +44,7 @@
    
    
    
-   git clone https://github.com/TechnicalMujeeb/tmvenom.git
+   git clone https://github.com/Umair8906/tmvenom.git
    
    
    
